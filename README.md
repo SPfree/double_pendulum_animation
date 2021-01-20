@@ -1,0 +1,2 @@
+# double_pendulum_animation
+单摆和双摆的数值仿真模拟

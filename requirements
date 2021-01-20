@@ -1,0 +1,6 @@
+#The environment 
+matplotlib
+numpy
+wxpython
+
+No run in the anaconda env, and must the main terminal with python3
